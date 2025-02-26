@@ -1,0 +1,5 @@
+C:\Users\willi\OneDrive\Documentos\GitHub\StopWatch\Stopwatch\obj\Debug\net9.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\GitHub\StopWatch\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\StopWatch\Stopwatch\obj\Debug\net9.0\Stopwatch.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\GitHub\StopWatch\Stopwatch\obj\Debug\net9.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\GitHub\StopWatch\Stopwatch\obj\Debug\net9.0\Stopwatch.sourcelink.json
